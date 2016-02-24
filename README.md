@@ -7,3 +7,4 @@
 > *快捷*
 [StackEdit](https://stackedit.io/)
 [百度](https://www.baidu.com/)
+[亚马逊](http://www.amazon.cn/)

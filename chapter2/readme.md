@@ -31,4 +31,5 @@ __________
 > - 而自旋速度也产生一个浮力，
 > - 具体关系为：![](https://github.com/fxdhi/computationalphysics_N2013301020017/blob/master/chapter2/gif1.latex.gif)
 > - 在这里讨论了转速为2000rpm的情况，在控制vx，vz的情况下观察轨迹的变化
-> - 图像如下：
+> - 图像如下:![](https://github.com/fxdhi/computationalphysics_N2013301020017/blob/master/chapter2/exercise2.19.1.png)
+![](https://github.com/fxdhi/computationalphysics_N2013301020017/blob/master/chapter2/exercise2.19.2.png)

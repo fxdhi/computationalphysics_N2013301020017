@@ -26,8 +26,12 @@
 
 
 ![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/3.PNG)
+ 
  ![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/1.PNG)
- ![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/2.PNG)
+
+![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/2.PNG)
+
+
 从上面可以看出该函数的振幅的确与周期有函数关系，并且由图像模拟可知，振幅越小，周期越长。
  
  

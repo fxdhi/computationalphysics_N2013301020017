@@ -30,7 +30,6 @@ class harmonic():
             self.v.append(self.v[i - 1]-k*self.x[i-1]**self.alpha*self.dt)
             self.x.append(self.x[i - 1]+self.v[i]*self.dt)
             self.t.append(self.t[i - 1] + self.dt)
-        print self.x
         return 0
         
        
@@ -52,13 +51,13 @@ c.calculate()
 c.plot2D("cyan")
 pl.legend()
 pl.show()
-A = harmonic(3, 2, 10,0.1,10)
+A = harmonic(3, 2, 10,0.01,20)
 A.calculate()
 A.plot2D("red")
-B = harmonic(3, 2, 20,0.1,10)
+B = harmonic(3, 2, 20,0.01,20)
 B.calculate()
 B.plot2D("blue")
-C = harmonic(3, 2, 0,0.1,10)
+C = harmonic(3, 2, 0,0.01,20)
 C.calculate()
 C.plot2D("purple")
 pl.legend()

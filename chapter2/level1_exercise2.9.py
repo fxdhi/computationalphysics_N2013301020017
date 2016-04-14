@@ -23,9 +23,9 @@ class cannon_trajectory:
         self.y0=y0
         self.v0=v0
         self.theta=theta
-        a=self.theta*math.pi/180
-        self.vx0=self.v0*math.cos(a)
-        self.vy0=self.v0*math.sin(a)
+        p=self.theta*math.pi/180
+        self.vx0=self.v0*math.cos(p)
+        self.vy0=self.v0*math.sin(p)
     
     def F_drag(self,v_x,v_y,y=1):
         v=math.sqrt(v_x**2+v_y**2)

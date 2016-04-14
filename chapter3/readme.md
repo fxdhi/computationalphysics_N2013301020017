@@ -20,3 +20,15 @@
 ![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/exercise3.4.2.png)
 ###结论
 经过观察，可以发现，在简谐振动中，运动周期与振幅大小无关(此处振幅的大小取决于初速度)，而非简谐振动的情况下，振幅越小，振动周期越大，即两者是存在某种联系的。
+ 对于简谐振动，$\omega$=$\sqrt(k/m)$
+ 而对于这里的非简谐振动，通过maple解得解析解为Jacobi正弦函数:![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/JacobiSN.PNG)
+>下面是关于雅可比正弦函数的一些介绍
+
+
+![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/3.PNG)
+ ![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/1.PNG)
+ ![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/2.PNG)
+从上面可以看出该函数的振幅的确与周期有函数关系，并且由图像模拟可知，振幅越小，周期越长。
+ 
+ 
+ 

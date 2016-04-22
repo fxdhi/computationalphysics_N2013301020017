@@ -7,12 +7,12 @@
 ---
 > - 正文
 本次计算依然使用euler-cromer法，所用的微分方程组为：
-![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/gif.latex.3.12gif.gif)
-![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/gif.latex.gif3.12.1.gif)
+> - ![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/gif.latex.3.12gif.gif)
+> - ![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/gif.latex.gif3.12.1.gif)
 用子程序形式即为：
-![enter image description here](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/gif.latex3.12.2.gif)
-![enter image description here](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/gif.latex3.12.3.gif)
-![enter image description here](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/gif.latex3.12.4.gif)
+> - ![enter image description here](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/gif.latex3.12.2.gif)
+> - ![enter image description here](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/gif.latex3.12.3.gif)
+> - ![enter image description here](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/gif.latex3.12.4.gif)
 所得F_d在各种取值下$\theta(t)$ 的图像
 ![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/exercise3.12.1.png)
 ![enter image description here](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/exercise3.12.2.png)

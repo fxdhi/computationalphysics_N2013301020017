@@ -48,7 +48,7 @@ class planet():
         pl.xlabel("x(AU)")
         pl.ylabel("y(AU)")
 
-A=planet(1,0,0,2*math.pi,0.002,12,10,1)
+A=planet(1,0,0,2*math.pi,0.002,10,10,1)
 A.calculate()
 A.plot("blue")
 pl.show()

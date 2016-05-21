@@ -17,12 +17,14 @@ exerciese5.16
  - ![enter image description here](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter5/exercise5.16.4.PNG) 
  - 这就是我们通常讨论的亥姆霍兹线圈的磁场分布关系的拓展，对比用python绘出的y=0处的图像：
  - ![enter image description here](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter5/exercise5.16.1.png) 
- - -------
+ 
+ -------
  发现两者在大致趋势上是相同的，但是单独讨论轴向磁场的图像在线圈边缘衰减的更为迅速，与从空间磁场出发得出的结果略有不同。
  进一步计算空间磁场，即三个方向的矢量和与y和z的关系：
  - ![enter image description here](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter5/exercise5.16.5.PNG) 
  - ![enter image description here](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter5/exercise5.16.6.PNG)
- ------- 
+
+------- 
 发现处在原点的磁场总是相当均匀的。
 ###结论
 亥姆霍兹线圈在两线圈距离等于半径时，内部的磁场在原点的分布十分均匀，外部磁场从边缘处开始向外逐渐衰减。

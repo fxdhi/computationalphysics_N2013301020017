@@ -1,8 +1,8 @@
 ##姓名：周一凡
 ##学号：2013301020017
-###[习题3.12](https://github.com/fxdhi/computationalphysics_N2013301020017/blob/master/chapter3/exercise3.12.md)
+##习题3.4
 ###背景
-习题3.4
+
 >简谐振动的微分方程的一般形式加以拓展，即：![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter3/gif.latex.gif)
 
 >对幂次分别为1和3时进行讨论,为了方便，k=1，其中$\alpha$=1时，对应简谐振动的情况，$\alpha$=3为非简谐振动的情况。探究两者振幅与周期的关系。

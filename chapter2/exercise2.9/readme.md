@@ -17,7 +17,11 @@
 作业2.9题要求考虑风阻以及空气密度变化带来的风阻的变化，采用了绝热过程的近似，选取初速度为500m/s的炮弹，以5°为梯度进行扫描，通过画出不同角度的轨迹，来判断最远距离是由哪个角度产生的。
 __________
 绝热过程空气密度变化：
-![](https://github.com/fxdhi/computationalphysics_N2013301020017/blob/master/chapter2/gif.latex.gif)
+![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter2/exercise2.9/gif.latex.gif)
+![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter2/exercise2.9/exercise2.9.1.png)
+![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter2/exercise2.9/exercise2.9.2.png)
+![](https://raw.githubusercontent.com/fxdhi/computationalphysics_N2013301020017/master/chapter2/exercise2.9/exercise2.9.3.png)
+
 ###结论
 经过修正的曲线明显高于未加密度修正的曲线，并且可以得出炮弹发射的最远距离是在发射角为45°时产生的。
 ###致谢

@@ -9,3 +9,4 @@
 >###[chapter4](https://github.com/fxdhi/computationalphysics_N2013301020017/tree/master/chapter4)
 >###[chapter5](https://github.com/fxdhi/computationalphysics_N2013301020017/tree/master/chapter5)
 >###[chapter6](https://github.com/fxdhi/computationalphysics_N2013301020017/tree/master/chapter6)
+>###[chapter7](https://github.com/fxdhi/computationalphysics_N2013301020017/tree/master/chapter7)
